@@ -13,6 +13,7 @@ Carga los datos transformados en tablas de un área de almacenamiento (staging) 
 **Requisitos**
 
 -Python 3.x
+
 -Base de datos MySQL: Tener acceso a una base de datos MySQL con la base de datos Sakila.
 
 **Librerías de Python:** 
